@@ -9,6 +9,23 @@ This project implements a simulation inspired by Jonathan Oppenheim's hypothesis
 
 The simulation initializes a set of quantum and classical systems with random positions and velocities, then applies various physical processes including spacetime fluctuations, stochastic curvature fluctuations, and gravitational interactions. The systems' evolution is visualized in real-time, demonstrating how quantum systems decohere due to their interaction with the classical gravitational field, and how energy conservation is managed throughout the simulation. This project serves as both a conceptual exploration and a visual demonstration of the proposed theory's dynamics.
 
+# Images
+
+![image](https://github.com/mmtmn/Postquantum-Theory-of-Classical-Gravity/assets/42742390/73f0bd55-7243-4e32-921b-2921311bf1f9)
+![image](https://github.com/mmtmn/Postquantum-Theory-of-Classical-Gravity/assets/42742390/18b5cd3d-bfbd-46e0-85af-fa990d80bdf6)
+![image](https://github.com/mmtmn/Postquantum-Theory-of-Classical-Gravity/assets/42742390/499f7842-68af-4195-8d10-65e92fe98a2e)
+![image](https://github.com/mmtmn/Postquantum-Theory-of-Classical-Gravity/assets/42742390/d24c421c-881b-49bf-9ade-da997f7fd38c)
+
+# Controls
+- 'a' moves to the left
+- 's' moves backwards
+- 'w' moves forward
+- 'd' moves to the right
+
+# How to change the code to run bigger or smaller simulations
+- #define NUM_QUANTUM_SYSTEMS 1000 <-- change this number to achieve the results according to the capacity of your computer 
+
+
 # Compile and run the code:
 
 ### Ubuntu/Debian-based Linux
