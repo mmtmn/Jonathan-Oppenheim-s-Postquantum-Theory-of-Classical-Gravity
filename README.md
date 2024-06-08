@@ -16,12 +16,18 @@ The simulation initializes a set of quantum and classical systems with random po
 ![image](https://github.com/mmtmn/Postquantum-Theory-of-Classical-Gravity/assets/42742390/499f7842-68af-4195-8d10-65e92fe98a2e)
 ![image](https://github.com/mmtmn/Postquantum-Theory-of-Classical-Gravity/assets/42742390/d24c421c-881b-49bf-9ade-da997f7fd38c)
 
+# Video
+[Postquantum-Theory-of-Classical-Gravity-Video.webm](https://github.com/mmtmn/Postquantum-Theory-of-Classical-Gravity/assets/42742390/d25c6179-3ef2-4eb8-992b-9cff7aeffb36)
+
+
 # Controls
+- move your cursor (pc's mouse or touchpad) to move the camera around
 - 'a' moves to the left
 - 's' moves backwards
 - 'w' moves forward
 - 'd' moves to the right
-- move your cursor (pc's mouse or touchpad) to move the camera around
+- 'q' to move upwards
+- 'e' to move downwards
 
 # How to change the code to run bigger or smaller simulations
 - #define NUM_QUANTUM_SYSTEMS 1000 <-- change this number to achieve the results according to the capacity of your computer 
