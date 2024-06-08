@@ -21,6 +21,7 @@ The simulation initializes a set of quantum and classical systems with random po
 - 's' moves backwards
 - 'w' moves forward
 - 'd' moves to the right
+- move your cursor (pc's mouse or touchpad) to move the camera around
 
 # How to change the code to run bigger or smaller simulations
 - #define NUM_QUANTUM_SYSTEMS 1000 <-- change this number to achieve the results according to the capacity of your computer 
