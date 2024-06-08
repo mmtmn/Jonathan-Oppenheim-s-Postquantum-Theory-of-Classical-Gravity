@@ -1,6 +1,10 @@
 # Video
 
-https://github.com/mmtmn/Jonathan-Oppenheim-s-Postquantum-Theory-of-Classical-Gravity/assets/42742390/6737be21-11c1-44f8-97db-17a8795220c8
+
+https://github.com/mmtmn/Jonathan-Oppenheim-s-Postquantum-Theory-of-Classical-Gravity/assets/42742390/7a03a544-1a5d-4989-884e-9e71b445d445
+
+
+
 
 # Jonathan Oppenheim's postquantum theory of classical gravity
 Jonathan Oppenheim's postquantum theory of classical gravity offers a novel approach to the problem of unifying quantum mechanics and general relativity. Instead of quantizing gravity, as is done in traditional approaches like string theory or loop quantum gravity, Oppenheim's theory maintains gravity as a classical field while allowing for quantum matter fields to interact with this classical gravity in a fundamentally stochastic manner.
