@@ -1,3 +1,7 @@
+# Video
+
+https://github.com/mmtmn/Jonathan-Oppenheim-s-Postquantum-Theory-of-Classical-Gravity/assets/42742390/6737be21-11c1-44f8-97db-17a8795220c8
+
 # Jonathan Oppenheim's postquantum theory of classical gravity
 Jonathan Oppenheim's postquantum theory of classical gravity offers a novel approach to the problem of unifying quantum mechanics and general relativity. Instead of quantizing gravity, as is done in traditional approaches like string theory or loop quantum gravity, Oppenheim's theory maintains gravity as a classical field while allowing for quantum matter fields to interact with this classical gravity in a fundamentally stochastic manner.
 
@@ -9,12 +13,8 @@ This project implements a simulation inspired by Jonathan Oppenheim's hypothesis
 
 The simulation initializes a set of quantum and classical systems with random positions and velocities, then applies various physical processes including spacetime fluctuations, stochastic curvature fluctuations, and gravitational interactions. The systems' evolution is visualized in real-time, demonstrating how quantum systems decohere due to their interaction with the classical gravitational field, and how energy conservation is managed throughout the simulation. This project serves as both a conceptual exploration and a visual demonstration of the proposed theory's dynamics.
 
-# Video
 
-https://github.com/mmtmn/Jonathan-Oppenheim-s-Postquantum-Theory-of-Classical-Gravity/assets/42742390/6737be21-11c1-44f8-97db-17a8795220c8
-
-
-# Images
+# Images (higher quality than the video)
 
 ![image](https://github.com/mmtmn/Postquantum-Theory-of-Classical-Gravity/assets/42742390/73f0bd55-7243-4e32-921b-2921311bf1f9)
 ![image](https://github.com/mmtmn/Postquantum-Theory-of-Classical-Gravity/assets/42742390/18b5cd3d-bfbd-46e0-85af-fa990d80bdf6)
