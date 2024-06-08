@@ -2,7 +2,7 @@
 
 
 https://github.com/mmtmn/Jonathan-Oppenheim-s-Postquantum-Theory-of-Classical-Gravity/assets/42742390/7a03a544-1a5d-4989-884e-9e71b445d445
-
+(if video is not working, try clicking around the timeline or wait a little bit for it load fully!)
 
 
 
